@@ -155,7 +155,3 @@ matriz_shinyGO_downregulated_0.05=matriz_shinyGO_0.05[-1,] #Se obtuvo una matriz
 write.csv(matriz_shinyGO_upregulated_0.05, "C:/Users/patri/Desktop/UMA 2/4BQ/TFG/iDEP.96/Con ENSEMBLID humano/FDR cutoff 0,05//todoslosIDs_upregulated_0,05.csv")
 write.csv(matriz_shinyGO_downregulated_0.05, "C:/Users/patri/Desktop/UMA 2/4BQ/TFG/iDEP.96/Con ENSEMBLID humano/FDR cutoff 0,05//todoslosIDs_downregulated_0,05.csv")
 write.csv(matriz_shinyGO_0.05, "C:/Users/patri/Desktop/UMA 2/4BQ/TFG/iDEP.96/Con ENSEMBLID humano/FDR cutoff 0,05//todoslosIDs_DEG_0,05.csv")
-
-
-
-
